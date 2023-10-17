@@ -1,4 +1,4 @@
-![233686223-36c51815-9370-4076-885a-85c553eee393](https://github.com/elamarannn/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497531/4b13e7f1-000f-4fa7-ac7f-22a17fe9e61f)# Implementation-of-Logistic-Regression-Using-Gradient-Descent
+# Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
